@@ -58,8 +58,8 @@ POSEmotion is an advanced emotion recognition system that enhances text-based em
 
 ```sh
 └── POSEmotion/
-    ├── NLP_Assignment_1_21CS30035.ipynb
-    └── NLP_Assignment_1_21CS30035.pdf
+    ├── POSEmotion_Code.ipynb
+    └── POSEmotion_Report.pdf
 ```
 
 ---
